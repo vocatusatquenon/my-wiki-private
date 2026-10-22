@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "chrisryugj/korean-law-mcp"
       }
+    },
+    "im-not-ai": {
+      "source": {
+        "source": "github",
+        "repo": "epoko77-ai/im-not-ai"
+      }
     }
   },
   "enabledPlugins": {
-    "korean-law@korean-law-marketplace": true
+    "korean-law@korean-law-marketplace": true,
+    "humanize-korean@im-not-ai": true
   }
 }
